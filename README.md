@@ -15,6 +15,7 @@
   - @tailwindcss/typography
   - @tailwindcss/forms
   - Dark mode ready
+  - All variants enabled by default
 - **Vue 2 Ready**
 - **Langs ready | EN - ES - CA**
 - **Scss / Sass ready**

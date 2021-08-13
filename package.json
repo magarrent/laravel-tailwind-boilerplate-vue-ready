@@ -20,6 +20,8 @@
         "tailwindcss": "^2.2.7"
     },
     "dependencies": {
+        "@tailwindcss/forms": "^0.3.3",
+        "@tailwindcss/typography": "^0.4.1",
         "sass-loader": "^12.1.0"
     }
 }

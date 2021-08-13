@@ -12,6 +12,9 @@
 
 - **Laravel 8**
 - **Tailwind 2.1 Ready and Loaded**
+  - @tailwindcss/typography
+  - @tailwindcss/forms
+  - Dark mode ready
 - **Vue 2 Ready**
 - **Langs ready | EN - ES - CA**
 - **Scss / Sass ready**

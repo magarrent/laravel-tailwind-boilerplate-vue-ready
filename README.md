@@ -1,11 +1,8 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
+![Laravel Tailwind Boilerplate - Vue Ready](https://user-images.githubusercontent.com/6561770/129886774-bf666556-28df-40b7-9007-726e088f1828.png)
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/magarrent)
 
 
 ### Features
@@ -21,7 +18,11 @@
 
 ## Usage
 
-Just download the ZIP release of the repository and init the laravel project
+```
+🌟 Give a repo Star :)
+```
+
+Just [download the latest ZIP release](https://github.com/magarrent/laravel-tailwind-boilerplate-vue-ready/releases) of the repository and init the laravel project
 
 ```bash
 npm install #install npm dependencies
@@ -70,10 +71,6 @@ mix
 - [Vue-Axios](https://www.npmjs.com/package/vue-axios)
 - [Vue-Router](https://router.vuejs.org/)
 - [Scss/Sass](https://sass-lang.com/)
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Marc Garcia (magarrent) via [magarrent@gmail.com](mailto:magarrent@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 

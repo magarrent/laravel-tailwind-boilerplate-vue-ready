@@ -11,8 +11,10 @@ const mix = require('laravel-mix');
  |
  */
 
-mix.js('resources/js/app.js', 'public/js')
-    .postCss('resources/css/tailwind.css', 'public/css', [
+mix
+    .js('resources/js/app.js', 'public/js').vue({ version: 2 }) // Vue template
+    .postCss('resources/css/tailwind.css', 'public/css', [ // Tailwind css loaded
         require("tailwindcss"),
     ])
-    .sass('resources/scss/custom.scss', 'public/css');
+    .sass('resources/scss/custom.scss', 'public/css'); // Custom Scss file
+
